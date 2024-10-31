@@ -25,6 +25,7 @@ body {
 .navbar .logo {
     font-size: 1.5em;
     font-weight: bold;
+    color: #0062da;
 }
 
 .navbar nav a {
@@ -62,14 +63,14 @@ body {
     display: inline-block;
     padding: 0.75em 1.5em;
     color: #333;
-    background-color: #d000ff;
+    background-color: #0062da;
     text-decoration: none;
     font-weight: bold;
     border-radius: 5px;
 }
 
 .cta-button:hover {
-    background-color: #ffffff;
+    background-color: #0062da;
 }
 
 
